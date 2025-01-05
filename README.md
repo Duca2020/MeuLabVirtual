@@ -23,6 +23,10 @@ Marcos Gabriel dos Santos Carneiro - [marcosgabriel3462@gmail.com](mailto:marcos
 
 GitHub Repository: [https://github.com/Duca2020/MeuLabVirtual](https://github.com/Duca2020/MeuLabVirtual)
 
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 
 
 ## Citation
